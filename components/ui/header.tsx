@@ -39,7 +39,7 @@ export default function Header() {
                 <Link href="/" className="btn-sm font-medium text-gray-600 hover:text-gray-900 px-5 py-3 flex items-center transition duration-150 ease-in-out">Home</Link>
               </li>
               <li>
-                <Link href="https://codelegalist123.github.io/KYR/#" className="btn-sm text-gray-900 hover:bg-gray-800 hover:text-gray-100 ml-3">KYR</Link>
+                <Link href="https://kyr.vercel.app/" className="btn-sm text-gray-900 hover:bg-gray-800 hover:text-gray-100 ml-3">KYR</Link>
               </li>
               {/* <li>
                 <Link href="/signup" className="btn-sm text-blue-900  hover:bg-gray-800 ml-3">Legal Track</Link>
