@@ -36,19 +36,19 @@ export default function Header() {
           <nav className="hidden md:flex md:grow">
           <ul className="flex grow justify-center flex-wrap items-center">
               <li>
-                <Link href="/signin" className="btn-sm font-medium text-gray-600 hover:text-gray-900 px-5 py-3 flex items-center transition duration-150 ease-in-out">Home</Link>
+                <Link href="/" className="btn-sm font-medium text-gray-600 hover:text-gray-900 px-5 py-3 flex items-center transition duration-150 ease-in-out">Home</Link>
               </li>
               <li>
-                <Link href="/signup" className="btn-sm text-blue-900 hover:bg-gray-800 ml-3">KYR</Link>
+                <Link href="https://codelegalist123.github.io/KYR/#" className="btn-sm text-blue-900 hover:bg-gray-800 ml-3">KYR</Link>
               </li>
               {/* <li>
                 <Link href="/signup" className="btn-sm text-blue-900  hover:bg-gray-800 ml-3">Legal Track</Link>
               </li> */}
               <li>
-                <Link href="/signup" className="btn-sm text-blue-900  hover:bg-gray-800 ml-3">Casepedia</Link>
+                <Link href="https://case-pedia.vercel.app/" className="btn-sm text-blue-900  hover:bg-gray-800 ml-3">Casepedia</Link>
               </li>
               <li>
-                <Link href="/signup" className="btn-sm text-blue-900  hover:bg-gray-800 ml-3">Aid Providers</Link>
+                <Link href="https://codelegalist123.github.io/LegalAidProviders/" className="btn-sm text-blue-900  hover:bg-gray-800 ml-3">Aid Providers</Link>
               </li>
             </ul>
           </nav>

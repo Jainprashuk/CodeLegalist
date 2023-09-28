@@ -65,19 +65,19 @@ export default function MobileMenu() {
         >
           <ul className="px-5 py-2">
             <li>
-              <Link href="/signin" className="unerline flex font-medium w-full text-gray-600 hover:text-gray-900 py-2 justify-center" onClick={() => setMobileNavOpen(false)}>Home</Link>
+              <Link href="/" className="unerline flex font-medium w-full text-gray-600 hover:text-gray-900 py-2 justify-center" onClick={() => setMobileNavOpen(false)}>Home</Link>
             </li>
             <li>
-              <Link href="/signin" className="flex font-medium w-full text-gray-600 hover:text-gray-900 py-2 justify-center" onClick={() => setMobileNavOpen(false)}>KYC</Link>
+              <Link href="https://codelegalist123.github.io/KYR/#" className="flex font-medium w-full text-gray-600 hover:text-gray-900 py-2 justify-center" onClick={() => setMobileNavOpen(false)}>KYR</Link>
             </li>
             {/* <li> */}
               {/* <Link href="/signin" className="flex font-medium w-full text-gray-600 hover:text-gray-900 py-2 justify-center" onClick={() => setMobileNavOpen(false)}>Legal Track</Link> */}
             {/* </li> */}
             <li>
-              <Link href="/signin" className="flex font-medium w-full text-gray-600 hover:text-gray-900 py-2 justify-center" onClick={() => setMobileNavOpen(false)}>Casepedia</Link>
+              <Link href="https://case-pedia.vercel.app/" className="flex font-medium w-full text-gray-600 hover:text-gray-900 py-2 justify-center" onClick={() => setMobileNavOpen(false)}>Casepedia</Link>
             </li>
             <li>
-              <Link href="/signin" className="flex font-medium w-full text-gray-600 hover:text-gray-900 py-2 justify-center" onClick={() => setMobileNavOpen(false)}>Aid Providers</Link>
+              <Link href="https://codelegalist123.github.io/LegalAidProviders/" className="flex font-medium w-full text-gray-600 hover:text-gray-900 py-2 justify-center" onClick={() => setMobileNavOpen(false)}>Aid Providers</Link>
             </li>
 
           </ul>          
