@@ -68,7 +68,7 @@ export default function MobileMenu() {
               <Link href="/" className="unerline flex font-medium w-full text-gray-600 hover:text-gray-900 py-2 justify-center" onClick={() => setMobileNavOpen(false)}>Home</Link>
             </li>
             <li>
-              <Link href="https://codelegalist123.github.io/KYR/#" className="flex font-medium w-full text-gray-600 hover:text-gray-900 py-2 justify-center" onClick={() => setMobileNavOpen(false)}>KYR</Link>
+              <Link href="https://kyr.vercel.app/" className="flex font-medium w-full text-gray-600 hover:text-gray-900 py-2 justify-center" onClick={() => setMobileNavOpen(false)}>KYR</Link>
             </li>
             {/* <li> */}
               {/* <Link href="/signin" className="flex font-medium w-full text-gray-600 hover:text-gray-900 py-2 justify-center" onClick={() => setMobileNavOpen(false)}>Legal Track</Link> */}
