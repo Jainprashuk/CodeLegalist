@@ -1,4 +1,4 @@
-# Hackathon Project - [Project Name]
+# Hackathon Project - [Code Legalist](https://code-legalist.vercel.app/)
 
 This repository contains my contributions to the [Hackathon Name] project, originally developed by [Team Members]. The project aims to [brief description of project purpose].
 
