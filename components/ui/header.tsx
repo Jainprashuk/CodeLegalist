@@ -48,7 +48,7 @@ export default function Header() {
                 <Link href="https://case-pedia.vercel.app/" className="btn-sm text-gray-900  hover:bg-gray-800 hover:text-gray-100 ml-3">Casepedia</Link>
               </li>
               <li>
-                <Link href="https://codelegalist123.github.io/LegalAidProviders/" className="btn-sm text-gray-900 hover:text-gray-100  hover:bg-gray-800 ml-3">Aid Providers</Link>
+                <Link href="https://legal-aid-providers.vercel.app/" className="btn-sm text-gray-900 hover:text-gray-100  hover:bg-gray-800 ml-3">Aid Providers</Link>
               </li>
             </ul>
           </nav>
